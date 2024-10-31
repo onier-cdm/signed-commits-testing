@@ -91,4 +91,4 @@ git remote add origin <https-link-url-from-repository>
 error: gpg failed to sign the data
 fatal: failed to write commit object`
 
-Solution:
+Solution: Testing new commit after paste the gpg on github again.
