@@ -171,4 +171,4 @@ echo "test" | gpg --clearsign
 
 If this command is successful and does not show any errors the prompt to set the passphrase will appear and proceed to the next step.
 
-8. Try Committing Again
+8. Try Committing Again (remember to use Conventional Commits extension)
