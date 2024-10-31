@@ -20,7 +20,7 @@ brew install gnupg
 gpg --full-generate-key
 ```
 
-3. Command to see the list og gpg generated keys
+3. Command to see the list of gpg generated keys
 
 ```
 gpg --list-secret-keys --keyid-format=long
